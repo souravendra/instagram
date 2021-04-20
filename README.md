@@ -13,3 +13,4 @@ _This Instagram Clone uses React Native, Redux, Firebase & Expo_
 - $ npm install @react-navigation/native (installs [React Navigation](https://reactnavigation.org/docs/getting-started))
 - relaunch expo ($ expo start -c)
 - $ npm install @react-navigation/stack
+- $ expo install firebase
